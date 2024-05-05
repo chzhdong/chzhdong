@@ -3,7 +3,7 @@
 <p><em>Computer Science bachelor at <a href="https://www.jlu.edu.cn/">JiLin University</a></br>Computer Technology master at <a href="https://www.sysu.edu.cn/">Sun Yat-Sen University</a>
 </em></p>
 
-[![Twitter: chzhdong](https://img.shields.io/twitter/follow/chzhdong?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: chzhdong](https://img.shields.io/twitter/follow/chzhdong?style=social)](https://twitter.com/chzhdong)
 [![Linkedin: chzhdong](https://img.shields.io/badge/-chzhdong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhendong-chen-2b4825266/)](https://www.linkedin.com/in/zhendong-chen-2b4825266/)
 [![GitHub chzhdong](https://img.shields.io/github/followers/chzhdong?label=follow&style=social)](https://github.com/chzhdong)
 
