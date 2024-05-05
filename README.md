@@ -20,6 +20,10 @@ Chen ZhenDong = {
 }
 ```
 
+### Github Stats
+
+[![Chen ZhenDong GitHub Stats](https://github-readme-stats.vercel.app/api?username=chzhdong&show_icons=true&count_private=true)](https://github.com/chzhdong)
+
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
