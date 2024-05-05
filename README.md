@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter: chzhdong](https://img.shields.io/twitter/follow/chzhdong?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: chzhdong](https://img.shields.io/badge/-chzhdong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhendong-chen/)](https://www.linkedin.com/in/zhendong-chen/)
+[![Linkedin: chzhdong](https://img.shields.io/badge/-chzhdong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhendong-chen-2b4825266/)](https://www.linkedin.com/in/zhendong-chen-2b4825266/)
 [![GitHub chzhdong](https://img.shields.io/github/followers/chzhdong?label=follow&style=social)](https://github.com/chzhdong)
 
 
