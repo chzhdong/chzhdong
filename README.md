@@ -1,9 +1,9 @@
 <h2> Hi, I'm Chen ZhenDong! </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="./profile.png" width="230">
 <p><em>Computer Science bachelor at <a href="https://www.jlu.edu.cn/">JiLin University</a></br>Computer Technology master at <a href="https://www.sysu.edu.cn/">Sun Yat-Sen University</a>
 </em></p>
 
-[![Twitter: chzhdong](https://img.shields.io/twitter/follow/chzhdong?style=social)](https://twitter.com/chzhdong)
+[![Twitter: chzhdong](https://img.shields.io/twitter/follow/chzhdong?style=social)](https://twitter.com/chzhd29)
 [![Linkedin: chzhdong](https://img.shields.io/badge/-chzhdong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zhendong-chen-2b4825266/)](https://www.linkedin.com/in/zhendong-chen-2b4825266/)
 [![GitHub chzhdong](https://img.shields.io/github/followers/chzhdong?label=follow&style=social)](https://github.com/chzhdong)
 
